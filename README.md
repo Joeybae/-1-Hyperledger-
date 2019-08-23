@@ -8,7 +8,7 @@ Hyperledger 예제를 실행하기 위해서 먼저 개발환경을 구축합니
 
 1. 터미널(Terminal) 실행
 
-2. brew 설치 : ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+2. brew 설치 (터미널에 명령어 입력) : ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
 
 3. curl 설치 (터미널에 명령어 입력) : brew install curl
 
