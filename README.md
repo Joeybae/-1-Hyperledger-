@@ -2,7 +2,7 @@
 
 Hyperledger fabcar 예제
 
-Hyperledger 예제를 실행하기 위해서 먼저 개발환경(curl, )을 구축해야합니다.
+Hyperledger 예제를 실행하기 위해서 먼저 개발환경을 구축합니다.
 
 <Mac버전>
 
